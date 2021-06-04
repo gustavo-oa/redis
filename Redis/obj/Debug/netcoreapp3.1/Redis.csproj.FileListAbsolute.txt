@@ -1,0 +1,8 @@
+C:\Users\gusta\source\repos\Redis\Redis\bin\Debug\netcoreapp3.1\Redis.deps.json
+C:\Users\gusta\source\repos\Redis\Redis\bin\Debug\netcoreapp3.1\Redis.dll
+C:\Users\gusta\source\repos\Redis\Redis\obj\Debug\netcoreapp3.1\Redis.csprojAssemblyReference.cache
+C:\Users\gusta\source\repos\Redis\Redis\obj\Debug\netcoreapp3.1\Redis.AssemblyInfoInputs.cache
+C:\Users\gusta\source\repos\Redis\Redis\obj\Debug\netcoreapp3.1\Redis.AssemblyInfo.cs
+C:\Users\gusta\source\repos\Redis\Redis\bin\Debug\netcoreapp3.1\Redis.pdb
+C:\Users\gusta\source\repos\Redis\Redis\obj\Debug\netcoreapp3.1\Redis.dll
+C:\Users\gusta\source\repos\Redis\Redis\obj\Debug\netcoreapp3.1\Redis.pdb
